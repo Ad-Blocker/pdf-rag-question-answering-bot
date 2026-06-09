@@ -91,3 +91,10 @@ streamlit run app.py
     The top 3 highest-scoring chunks are selected.
 5.  **Prompt Formulation**: The 3 retrieved chunks are injected as structured context into a prompt. Strict grounding rules are appended, directing the model to output a clear refusal if the answers are not covered by the context.
 6.  **Answer Generation**: The prompt is processed by `gemini-1.5-flash`, and the grounded response is rendered in the chat UI alongside source badges.
+<img width="1364" height="418" alt="image" src="https://github.com/user-attachments/assets/bdd98a0c-6aa3-46cd-832f-b0f0190ffc66" />
+<img width="1366" height="325" alt="image" src="https://github.com/user-attachments/assets/ea32136c-d656-4195-9a70-6a71135d33be" />
+<img width="1363" height="479" alt="image" src="https://github.com/user-attachments/assets/0253ac49-1645-4ffc-a5d9-c8761ac3e6dd" />
+<img width="1364" height="418" alt="image" src="https://github.com/user-attachments/assets/a5ddad84-a06d-4afe-b578-d3cc8b7d0786" />
+
+
+
